@@ -126,7 +126,30 @@
     padding: 14px 24px;
 }
 
-/*
+/*Section 1*/
 
+.section-partners{
+    background-color: var(--color-gray4);
+    padding: 40px 0px;
+}
+
+.partners-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+.partners-container p{
+    color: var(--color-white);
+    font-family: var(--font-family-alexandria);
+    font-size: var(--font-size-text1);
+}
+
+.partners-img{
+    display: flex;
+    gap: 50px;
+}
 
 
