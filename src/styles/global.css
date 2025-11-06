@@ -24,6 +24,7 @@
     --font-size-caption: 12px;
 
     --font-family-alexandria: "Poppins", sans-serif;
+    --font-family-inter: "Inter", sans-serif;
 
     h1{
         color: var(--color-white);
